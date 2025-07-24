@@ -94,14 +94,3 @@ The model was fine-tuned on a custom dataset, which is expected to be a CSV file
 
 * **Bias:** The model's performance and biases are entirely dependent on the quality, diversity, and representativeness of the training data.
 * **Non-Clinical Use Only:** This model is not a diagnostic tool. Mental health is complex, and AI models cannot replace professional judgment.
-
-## Contributing
-
-Contributions are welcome! If you have suggestions for improvements, feel free to:
-
-1.  Fork the repository.
-2.  Create a new branch (`git checkout -b feature/your-feature`).
-3.  Make your changes.
-4.  Commit your changes (`git commit -m 'feat: Add new feature'`).
-5.  Push to the branch (`git push origin feature/your-feature`).
-6.  Open a Pull Request.
