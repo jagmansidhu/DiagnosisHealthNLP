@@ -2,7 +2,7 @@
 
 ---
 
-## ⚠️ Important Disclaimer ⚠️
+## Disclaimer
 
 This project implements a Natural Language Processing (NLP) model for text classification into mental health-related categories. **It is developed purely for educational and experimental purposes and should NOT be used for any form of medical diagnosis, advice, or treatment.**
 
